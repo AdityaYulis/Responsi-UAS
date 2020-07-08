@@ -1,0 +1,3 @@
+Mohon maaf pak sebelumnya, dikarenakan saya menggunakan Visual Studio Code bukan Visual Studio
+jadi yang berubah hanya file Mahasiswa.cs dan Program.cs untuk file lainnya tidak berubah.
+Terimakasih pak
